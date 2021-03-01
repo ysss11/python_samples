@@ -396,9 +396,14 @@ python yen_count.py
 ```md
 generate_prime_numbers.pyはNumPyを利用して素数を見つけるプログラム
 is_prime関数で素数の判定を実施し、NumPyのvectorizeで配列の各要素ごとに判定するようにしています。
+
+generate_prime_numbers2.pyはジェネレータを利用して素数を出力しています。
 ```
 ### 使い方
 ```md
 python generate_prime_numbers.py
 [ 2  3  5  7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97]
+
+python generate_prime_numbers2.py
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97
 ```
