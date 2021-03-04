@@ -445,11 +445,18 @@ python generate_prime_numbers3.py
 ```md
 draw_rectangle.pyは四角形を描画します。
 right(90)で90度方向変換しそれを4回実施して四角形を描画しています。
+
+draw_pentagon.pyは五角形を描画します。
+left(72)で72度方向変換しそれを5回実施して五角形を描画しています。
 ```
 ### 使い方
 ```md
 python draw_rectangle.py
+
+python draw_pentagon.py
 ```
 ### 出力結果
 四角形  
 ![rectangle](DrawShape\rectangle.JPG)
+五角形  
+![pentagon](DrawShape\pentagon.JPG)
