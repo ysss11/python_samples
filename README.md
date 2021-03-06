@@ -448,15 +448,22 @@ right(90)で90度方向変換しそれを4回実施して四角形を描画し�
 
 draw_pentagon.pyは五角形を描画します。
 left(72)で72度方向変換しそれを5回実施して五角形を描画しています。
+
+draw_spiral.pyは渦巻を描画します。
+left(10 + i)でiにはrangeで数値を渡すことによりleftの値で動きを変え渦まきを再現している。
 ```
 ### 使い方
 ```md
 python draw_rectangle.py
 
 python draw_pentagon.py
+
+python draw_spiral.py
 ```
 ### 出力結果
 四角形  
 ![rectangle](DrawShape\rectangle.JPG)
 五角形  
 ![pentagon](DrawShape\pentagon.JPG)
+渦まき  
+![spiral](DrawShape\spiral.JPG)
