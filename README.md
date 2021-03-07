@@ -462,11 +462,11 @@ python draw_spiral.py
 ```
 ### 出力結果
 四角形  
-![rectangle](DrawShape\rectangle.JPG)
+![rectangle](DrawShape/rectangle.JPG)
 五角形  
-![pentagon](DrawShape\pentagon.JPG)
+![pentagon](DrawShape/pentagon.JPG)
 渦まき  
-![spiral](DrawShape\spiral.JPG)
+![spiral](DrawShape/spiral.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
