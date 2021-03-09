@@ -458,6 +458,9 @@ left(10 + i)でiにはrangeで数値を渡すことによりleftの値で動き�
 
 draw_flower.pyは花を描画しています。
 円を1回書き再度角度を変えて円を書く。それを10回書くことにより花を描画している。
+
+draw_circle.pyは円を描画しています。
+円を描画するためleft(18)を20回することで、360度(円)を描画しています。
 ```
 ### 使い方
 ```md
@@ -468,6 +471,8 @@ python draw_pentagon.py
 python draw_spiral.py
 
 python draw_flower.py
+
+python draw_circle.py
 ```
 ### 出力結果
 四角形  
@@ -478,6 +483,8 @@ python draw_flower.py
 ![spiral](DrawShape/spiral.JPG)
 花  
 ![flower](DrawShape/flower.JPG)
+円  
+![circle](DrawShape/circle.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
