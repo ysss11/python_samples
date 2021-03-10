@@ -461,6 +461,9 @@ draw_flower.pyは花を描画しています。
 
 draw_circle.pyは円を描画しています。
 円を描画するためleft(18)を20回することで、360度(円)を描画しています。
+
+draw_stars.pyは星を描画しています。
+left(144)で5回実施することで一筆で書ける星が書けます。
 ```
 ### 使い方
 ```md
@@ -473,6 +476,8 @@ python draw_spiral.py
 python draw_flower.py
 
 python draw_circle.py
+
+python draw_stars.py
 ```
 ### 出力結果
 四角形  
@@ -485,6 +490,8 @@ python draw_circle.py
 ![flower](DrawShape/flower.JPG)
 円  
 ![circle](DrawShape/circle.JPG)
+星  
+![stars](DrawShape/stars.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
