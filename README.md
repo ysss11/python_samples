@@ -464,6 +464,8 @@ draw_circle.pyは円を描画しています。
 
 draw_stars.pyは星を描画しています。
 left(144)で5回実施することで一筆で書ける星が書けます。
+
+draw_sun.pyは太陽っぽい絵を描画しています。
 ```
 ### 使い方
 ```md
@@ -478,6 +480,8 @@ python draw_flower.py
 python draw_circle.py
 
 python draw_stars.py
+
+python draw_sun.py
 ```
 ### 出力結果
 四角形  
@@ -492,6 +496,8 @@ python draw_stars.py
 ![circle](DrawShape/circle.JPG)
 星  
 ![stars](DrawShape/stars.JPG)
+太陽  
+![sun](DrawShape/sun.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
