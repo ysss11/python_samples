@@ -466,6 +466,9 @@ draw_stars.pyは星を描画しています。
 left(144)で5回実施することで一筆で書ける星が書けます。
 
 draw_sun.pyは太陽っぽい絵を描画しています。
+
+draw_traiangle.pyは三角形を描画しています。
+left(120)に設定して三回実施することで正三角形を描画しています。
 ```
 ### 使い方
 ```md
@@ -482,6 +485,8 @@ python draw_circle.py
 python draw_stars.py
 
 python draw_sun.py
+
+python draw_traiangle.py
 ```
 ### 出力結果
 四角形  
@@ -498,6 +503,8 @@ python draw_sun.py
 ![stars](DrawShape/stars.JPG)
 太陽  
 ![sun](DrawShape/sun.JPG)
+三角形  
+![traiangle](DrawShape/traiangle.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
