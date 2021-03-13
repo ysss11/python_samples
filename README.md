@@ -469,6 +469,8 @@ draw_sun.pyは太陽っぽい絵を描画しています。
 
 draw_traiangle.pyは三角形を描画しています。
 left(120)に設定して三回実施することで正三角形を描画しています。
+
+draw_magic_circle.pyは魔法陣ぽいものを描画しています。
 ```
 ### 使い方
 ```md
@@ -487,6 +489,8 @@ python draw_stars.py
 python draw_sun.py
 
 python draw_traiangle.py
+
+python draw_magic_circle.py
 ```
 ### 出力結果
 四角形  
@@ -505,6 +509,8 @@ python draw_traiangle.py
 ![sun](DrawShape/sun.JPG)
 三角形  
 ![traiangle](DrawShape/traiangle.JPG)
+魔法陣  
+![magic_circle](DrawShape/magic_circle.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
