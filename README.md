@@ -494,23 +494,23 @@ python draw_magic_circle.py
 ```
 ### 出力結果
 四角形  
-![rectangle](DrawShape/rectangle.JPG)
+![rectangle](DrawShape\image\rectangle.JPG)
 五角形  
-![pentagon](DrawShape/pentagon.JPG)
+![pentagon](DrawShape\image\pentagon.JPG)
 渦まき  
-![spiral](DrawShape/spiral.JPG)
+![spiral](DrawShape\image\spiral.JPG)
 花  
-![flower](DrawShape/flower.JPG)
+![flower](DrawShape\image\flower.JPG)
 円  
-![circle](DrawShape/circle.JPG)
+![circle](DrawShape\image\circle.JPG)
 星  
-![stars](DrawShape/stars.JPG)
+![stars](DrawShape\image\stars.JPG)
 太陽  
-![sun](DrawShape/sun.JPG)
+![sun](DrawShape\image\sun.JPG)
 三角形  
-![traiangle](DrawShape/traiangle.JPG)
+![traiangle](DrawShape\image\traiangle.JPG)
 魔法陣  
-![magic_circle](DrawShape/magic_circle.JPG)
+![magic_circle](DrawShape\image\magic_circle.JPG)
 
 ## PythonからSlackにメッセージを送信するプログラム
 ### 内容
@@ -531,7 +531,7 @@ python slack_python.py
 ```
 ### 出力結果
 Slackの出力結果  
-![slack_message](SlackSend/slack_message.png)
+![slack_message](SlackSend\image\slack_message.png)
 > 参考  
 > https://qiita.com/tmiyama/items/4d1af727829c0fcd301e  
 > https://jamstec-iprc.slack.com/?redir=%2Fapps%2Fnew%2FA0F7XDUAZ--incoming-webhook-  
