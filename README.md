@@ -468,12 +468,12 @@ draw_circle.pyは円を描画しています。
 draw_stars.pyは星を描画しています。
 left(144)で5回実施することで一筆で書ける星が書けます。
 
-draw_sun.pyは太陽っぽい絵を描画しています。
+draw_sun.pyは太陽のような絵を描画しています。
 
 draw_traiangle.pyは三角形を描画しています。
 left(120)に設定して三回実施することで正三角形を描画しています。
 
-draw_magic_circle.pyは魔法陣ぽいものを描画しています。
+draw_magic_circle.pyは魔法陣のような絵を描画しています。
 ```
 ### 使い方
 ```md
