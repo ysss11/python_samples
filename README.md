@@ -1,9 +1,9 @@
 # Pythonで作ったサンプルプログラム群です。
 
 ## プログラム一覧
-[マチンの公式を使用して円周率を求めるプログラム](CalcPiForMachinsFormula/README.md)  
-[コマンドライン引数に指定した件数分の文字列を表示するプログラム](CommandLineArgs/README.md)  
-[カウントタイマーのプログラム](CountTimer/README.md)  
+[マチンの公式を使用して円周率を求めるプログラム](CalcPiForMachinsFormula)  
+[コマンドライン引数に指定した件数分の文字列を表示するプログラム](CommandLineArgs)  
+[カウントタイマーのプログラム](CountTimer)  
 [九九の表を表示するプログラム](MultiplicationTable)  
 [縦10×横10の逆三角形、三角形を表示するプログラム](TriangleRepresentation)  
 [+1,-1だけで四則演算処理するプログラム](IncrementCalc)  
