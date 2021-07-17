@@ -17,7 +17,7 @@ python slack_python.py
 ```
 ### 出力結果
 Slackの出力結果  
-![slack_message](SlackSend/image/slack_message.png)
+![slack_message](image/slack_message.png)
 > 参考  
 > https://qiita.com/tmiyama/items/4d1af727829c0fcd301e  
 > https://jamstec-iprc.slack.com/?redir=%2Fapps%2Fnew%2FA0F7XDUAZ--incoming-webhook-  
