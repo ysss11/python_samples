@@ -14,7 +14,7 @@ if __name__ == '__main__':
     if input_num.isdigit():
         number = reverseNumber(int(input_num))
         print(f"reverseNumber result : {number}")
-        
+
         value = reverseNumberForSlice(str(input_num))
         print(f"reverseNumberForSlice result : {value}")
     else:
