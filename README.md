@@ -17,3 +17,4 @@
 [PythonからSlackにメッセージを送信するプログラム](SlackSend)  
 [スレッドカウントタイマーのプログラム](ThreadCountTimer)  
 [PythonからGmailを送るプログラム](GmailSend)  
+[音声データの文字起こしをするプログラム](SpeechRecognition)  
