@@ -20,3 +20,7 @@
 [音声データの文字起こしをするプログラム](SpeechRecognition)  
 [英和辞書から XXX が含まれている語句を抽出するプログラム](English_JapaneseDictionary)  
 [PDFを結合するプログラム](PDFCombination)  
+
+## 環境構築参考
+pipenv編
+> https://qiita.com/y-tsutsu/items/54c10e0b2c6b565c887a  
