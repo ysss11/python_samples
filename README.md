@@ -14,14 +14,8 @@
 [入力された金額に対して必要なお金の枚数を表示するプログラム](YenCount)  
 [100までの素数を表示するプログラム](GeneratePrimeNumbers)  
 [絵を描画して表示するプログラム](DrawShape)  
-[PythonからSlackにメッセージを送信するプログラム](SlackSend)  
 [スレッドカウントタイマーのプログラム](ThreadCountTimer)  
-[PythonからGmailを送るプログラム](GmailSend)  
-[音声データの文字起こしをするプログラム](SpeechRecognition)  
-[英和辞書から XXX が含まれている語句を抽出するプログラム](English_JapaneseDictionary)  
-[PDFを結合するプログラム](PDFCombination)  
-[郵便番号データベースを用いて住所や郵便番号を検索するプログラム](JapanPostSearch)  
-[Pythonでカレンダーを表示するプログラム](Calender)
+
 
 ## 環境構築参考
 pipenv編
