@@ -15,7 +15,7 @@
 [100までの素数を表示するプログラム](GeneratePrimeNumbers)  
 [絵を描画して表示するプログラム](DrawShape)  
 [スレッドカウントタイマーのプログラム](ThreadCountTimer)  
-
+[Stripe Checkoutのサンプルプログラム](StripeSample01)  
 
 ## 環境構築参考
 pipenv編
