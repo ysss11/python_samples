@@ -16,6 +16,7 @@
 [絵を描画して表示するプログラム](DrawShape)  
 [スレッドカウントタイマーのプログラム](ThreadCountTimer)  
 [Stripe Checkoutのサンプルプログラム](StripeSample01)  
+[WebサイトまたはアプリケーションにカスタムのStripe支払いフォームを埋め込む方法](StripeSample02)  
 
 ## 環境構築参考
 pipenv編
