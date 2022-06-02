@@ -1,3 +1,4 @@
+# pylint: disable=duplicate-code
 from time import sleep
 from threading import Thread
 
