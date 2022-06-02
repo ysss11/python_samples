@@ -1,5 +1,6 @@
 YEN_TYPES = [10000, 5000, 1000, 500, 100, 50, 10, 1]
 
+
 def getYenCount(money):
     count = [0] * len(YEN_TYPES)
     for i in range(0, len(YEN_TYPES)):
@@ -7,6 +8,7 @@ def getYenCount(money):
             money -= YEN_TYPES[i]
             count[i] += 1
     return count
+
 
 if __name__ == '__main__':
     money = input("金額を入力してください。>>> ")
