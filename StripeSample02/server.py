@@ -2,14 +2,13 @@
 """
 Python 3.6 or newer required.
 """
+from flask import Flask, render_template, jsonify, request
 import json
 import os
 import stripe
 
 # This is your test secret API key.
 stripe.api_key = 'sk_test_51J7JAuJgIlSK0iakkSNk2SHR7e7ZoX6XA7lOfQbAkkMnjMtZUCzlMvcKogo3XBgTbPAuok05UKN5UhSSaCatguX4002Q5n7izR'
-
-from flask import Flask, render_template, jsonify, request
 
 
 app = Flask(__name__, static_folder='public',
@@ -70,5 +69,7 @@ def create_payment():
         })
     except Exception as e:
         return jsonify(error=str(e)), 403
+
+
 if __name__ == '__main__':
     app.run(port=4242)

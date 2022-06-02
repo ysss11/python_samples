@@ -1,26 +1,30 @@
 import sys
 
+
 def add(a, b):
     ans = a
-    for _ in range(1, b+1):
+    for _ in range(1, b + 1):
         ans += 1
     return ans
 
+
 def sub(a, b):
     ans = a
-    for _ in range(1, b+1):
+    for _ in range(1, b + 1):
         ans -= 1
     return ans
 
+
 def multi(a, b):
     ans = 0
-    for _ in range(1, b+1):
+    for _ in range(1, b + 1):
         ans = add(ans, a)
     return ans
 
+
 def div(a, b):
     ans = 0
-    while(a>=b):
+    while(a >= b):
         a = sub(a, b)
         ans += 1
     return ans

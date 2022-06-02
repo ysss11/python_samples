@@ -7,6 +7,7 @@ judge_list = ["あいこ", "負け", "勝ち"]
 score = 0
 count = 0
 
+
 def judge(x, y):
     """ じゃんけんの判定関数 """
     score = (x - y + 3) % 3
@@ -20,6 +21,7 @@ def judge(x, y):
         result = judge_list[score]
         _score = 1
     return result, _score
+
 
 if __name__ == '__main__':
     while True:

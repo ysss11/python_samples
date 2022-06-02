@@ -5,8 +5,10 @@ def reverseNumber(number):
         number = number // 10
     return result
 
+
 def reverseNumberForSlice(number):
     return str(number[::-1])
+
 
 if __name__ == '__main__':
     input_num = input("数値を入力してください。>>> ")

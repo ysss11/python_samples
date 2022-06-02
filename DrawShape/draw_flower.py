@@ -1,9 +1,12 @@
-#花を描画
-from turtle import *
+# 花を描画
+from turtle import fd, left
+
+
 def circle():
     for _ in range(36):
         fd(20)
         left(10)
+
 
 for _ in range(10):
     circle()

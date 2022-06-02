@@ -12,4 +12,3 @@ if __name__ == '__main__':
     arr = np.arange(2, 101)
     vec = np.vectorize(is_prime)
     print(arr[vec(arr)])
-
