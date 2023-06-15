@@ -2,3 +2,5 @@ SpeechRecognition/myvenv/
 StripeSample01/node_modules/*
 StripeSample02/node_modules/*
 Fortune/__pycache__/*
+StripeSample01/package-lock.json
+StripeSample02/package-lock.json
