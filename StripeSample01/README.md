@@ -23,7 +23,8 @@ python -m flask run --port=4242
 
 
 ```
-npm install
+npm install -g npm@latest
+npm update --include=dev
 ```
 
 ## client アプリの起動
@@ -40,3 +41,4 @@ npm start
 ## 参考
 
 > https://stripe.com/docs/checkout/quickstart
+> https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8
