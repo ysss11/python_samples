@@ -1,7 +1,7 @@
 # Stripe Checkoutのサンプル
 
 ## プロジェクトの初期化
-pipenv --python 3.7
+pipenv --python 3.11.4
 
 ## 仮想環境に入る
 pipenv shell

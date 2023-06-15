@@ -1,7 +1,7 @@
 # Web サイトまたはアプリケーションにカスタムの Stripe 支払いフォームを埋め込む方法
 
 ## プロジェクトの初期化
-pipenv --python 3.7
+pipenv --python 3.11.4
 
 ## 仮想環境に入る
 pipenv shell
@@ -23,7 +23,8 @@ python -m flask run --port=4242
 
 
 ```
-npm install
+npm install -g npm@latest
+npm update --include=dev
 ```
 
 ## client アプリの起動
